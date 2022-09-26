@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/dakre/vtr-verilog-to-routing/vtr_flow/tasks/ece506_ex2_1'
+let g:netrw_dirhist_2='/home/dakre/vtr_release/vtr_flow/tasks/group6/fcin/fcin1/run1/k4-n10-i22-fs3-fcin0.1-fcout1.0-l4.xml'
+let g:netrw_dirhist_3='/home/dakre/vtr_release/vtr_flow/tasks/group6/fcin/fcin1/run1'
+let g:netrw_dirhist_4='/home/dakre/dpr_rt/hw/Sources/hdl/sha'
+let g:netrw_dirhist_5='/home/dakre/Downloads/pr_tutorial/led_shift_count_7s/Sources/hdl/top'
